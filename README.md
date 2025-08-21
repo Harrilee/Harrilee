@@ -18,6 +18,7 @@ You can find more about me with the following links:
 - **M.S., Carnegie Mellon University**, *Software Engineering*, 2023–2024
 
 ### Work Experience 💼
+- **NVIDIA**, *Software Engineer*, 2025–present
 - **Apple**, *Software Engineer Intern*, 2024
 - **New York University Shanghai**, *Research Assisstant, Software Engineer Intern*, 2023
 - **Orka Labs**, *Software Engineer Intern*, 2022–2023
