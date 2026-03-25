@@ -3,7 +3,7 @@
 <img width="200" height="50" alt="Untitled-1" src="https://github.com/user-attachments/assets/d8b601f7-45ac-4ac3-bba3-c42c0d523f25" />
 
 
-I am a Software Engineer at NVIDIA, working on the TensorRT Cloud team. I hold a Master's degree in Software Engineering from Carnegie Mellon University, as well as a Bachelor's degree in Computer Science and Data Science with a concentration in Artificial Intelligence. My interests are in cloud infra and full stack development.
+I am a Software Engineer at NVIDIA, contributing to the [Dynamo](https://www.nvidia.com/en-us/ai/dynamo/) project with a focus on **LLM inference** and **high-performance systems**. I earned my _M.S. in Software Engineering_ from Carnegie Mellon University, following a _B.S. in Computer Science and Data Science (AI Concentration)_ from New York University. My technical expertise lies at the intersection of **cloud infrastructure** and **full-stack** development, specifically optimized for **large-scale AI workloads**.
 
 ## My Personal Portfolio: [haorui.li](https://haorui.li) 🔗
 You can find more about me with the following links:
